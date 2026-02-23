@@ -1,2 +1,31 @@
 # foley_anna_midterm_assignment
+
 This repo is for HW1 in our MMED-1056 class. In this repo, we are create a responsive boxed out site for two pages of our FIP
+
+## Installation
+
+No installation required. 
+
+## Usage
+
+Open in the browser of your choice
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+## History
+
+Created Feb 23rd, 2026
+
+## Credits
+
+by Anna Foley
+
+## License
+
+MIT license
